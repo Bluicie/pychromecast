@@ -1,0 +1,8 @@
+{
+  "domain": "chromecast",
+  "name": "PY Chromecast",
+  "documentation": "https://github.com/bluicie/pychromecast",
+  "requirements": [""],
+  "codeowners": ["@bluicie"],
+  "version": "1.1"
+}
